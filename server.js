@@ -1,7 +1,7 @@
 const express = require("express");
 const server = express();
 
-const port = process.env.PORT || 3045;
+const port = process.env.WMYPORT || 3045;
 
 server.listen(port, function(){
     console.debug(`whatsmyip server up on port ${port}`);

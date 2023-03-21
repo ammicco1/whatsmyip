@@ -7,4 +7,4 @@ Run with ``` npm start ``` and make an HTTP request to get a JSON object like:
 } 
 ```
 
-specify the port in an environment variable named PORT.
+specify the port in an environment variable named WMYPORT.
