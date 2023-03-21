@@ -1,0 +1,15 @@
+{
+  "name": "whatsmyip",
+  "version": "1.0.0",
+  "description": "get public ip ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
+}
